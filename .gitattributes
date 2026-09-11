@@ -1,0 +1,4 @@
+*.ast filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.bun filter=lfs diff=lfs merge=lfs -text
+*.lzc filter=lfs diff=lfs merge=lfs -text
